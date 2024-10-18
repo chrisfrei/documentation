@@ -7,6 +7,7 @@ tags:
   - nvchad
   - coding
   - editor
+  - test
 ---
 
 # :material-book-open-page-variant-outline: Introduction
